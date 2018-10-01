@@ -1,5 +1,6 @@
 #Blok nie wykonywany
-#program sprawdza czy liczba jest podzielna przez 2
+#program sprawdza czy liczba65
+#  jest podzielna przez 2
 
 a = input("Proszę podaj wartość: ")     #wyświelta komuikat i po wprowadzeniu wartości w postaci str przypisuje ją do zmiennej a
 b = int(a)                              #konwertuje str opsiiujacego liczbe a na wartośc liczbową int a i przypisuje pod zmienną b

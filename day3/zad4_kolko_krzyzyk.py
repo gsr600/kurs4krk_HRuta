@@ -12,16 +12,16 @@ elif wynik[6] == wynik[7] and wynik[7] == wynik[8] and wynik[6] == wynik[8]:
 elif wynik[0] == wynik[3] and wynik[3] == wynik[6] and wynik[0] == wynik[6]:
     print("WIN")
     print(wynik[0])
-elif wynik[1] == wynik[4] and wynik[4] == wynik[7]:
+elif wynik[1] == wynik[4] and wynik[4] == wynik[7] and wynik[1] == wynik[7]:
     print("WIN")
     print(wynik[1])
-elif wynik[2] == wynik[5] and wynik[5] == wynik[8]:
+elif wynik[2] == wynik[5] and wynik[5] == wynik[8]and wynik[2] == wynik[8]:
     print("WIN")
     print(wynik[2])
-elif wynik[0] == wynik[4] and wynik[4] == wynik[8]:
+elif wynik[0] == wynik[4] and wynik[4] == wynik[8]and wynik[0] == wynik[8]:
     print("WIN")
     print(wynik[0])
-elif wynik[2] == wynik[4] and wynik[4] == wynik[6]:
+elif wynik[2] == wynik[4] and wynik[4] == wynik[6]and wynik[2] == wynik[6]:
     print("WIN")
     print(wynik[2])
 else:
